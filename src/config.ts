@@ -94,7 +94,7 @@ export const siteConfig = {
     github: "https://github.com/farisqadr",
   },
   aboutMe:
-    "Result driven Product & Project Manager with 5+ years of experience leading innovation in web and app development. Successfully delivered 20+ cross-industry projects by translating business needs into actionable product requirements and driving measurable gains in efficient speed. Experienced in aligning diverse teams, utilizing AI productivity tools, and managing stakeholders toward product growth vision.",
+    "Result driven Product & Project Manager with 5+ years of experience leading innovation in web and app development. Successfully delivered 20+ cross-industry projects by translating business needs into actionable product requirements and driving measurable gains in efficient workflow. Experienced in aligning diverse teams, utilizing AI productivity tools, and managing stakeholders toward product growth vision.",
   skills: [
     "Product Strategy & Vision",
     "Agile Project Management (Scrum)",
