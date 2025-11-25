@@ -57,6 +57,12 @@ const { gallery } = siteConfig;
     height: 200px;
     border-radius: 0.5rem;
     overflow: hidden;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+  }
+
+  .gallery-item:hover {
+    transform: scale(2.0);
   }
 
   @keyframes scroll {
